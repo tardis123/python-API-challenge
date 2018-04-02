@@ -1,0 +1,1900 @@
+City number: 2052479, city name: Zhuhai
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=zhuhai,cn
+No weather data found for umzimvubu
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=umzimvubu,za
+City number: 1270618, city name: Gursarai
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=gursarai,in
+City number: 6167817, city name: Torbay
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=torbay,ca
+City number: 3874787, city name: Punta Arenas
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=punta arenas,cl
+City number: 379252, city name: Khartoum
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=khartoum,sd
+City number: 241131, city name: Victoria
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=victoria,sc
+City number: 5955902, city name: Fort Nelson
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=fort nelson,ca
+City number: 546105, city name: Nikolskoye
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=nikolskoye,ru
+City number: 2110227, city name: Butaritari
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=butaritari,ki
+City number: 3874787, city name: Punta Arenas
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=punta arenas,cl
+City number: 2144528, city name: Warrnambool
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=warrnambool,au
+City number: 3471451, city name: Arraial do Cabo
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=arraial do cabo,br
+City number: 3533462, city name: Acapulco
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=acapulco,mx
+City number: 290340, city name: Manama
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=manama,bh
+City number: 2163355, city name: Hobart
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hobart,au
+City number: 3833367, city name: Ushuaia
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ushuaia,ar
+City number: 2120612, city name: Tigil
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=tigil,ru
+City number: 4407665, city name: Kodiak
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kodiak,us
+City number: 2075265, city name: Busselton
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=busselton,au
+City number: 2012956, city name: Yerbogachen
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=yerbogachen,ru
+City number: 4032243, city name: Vaini
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=vaini,to
+No weather data found for airai
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=airai,pw
+City number: 3440777, city name: Rocha
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=rocha,uy
+City number: 1490256, city name: Talnakh
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=talnakh,ru
+City number: 4407665, city name: Kodiak
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kodiak,us
+City number: 3932145, city name: Pisco
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=pisco,pe
+City number: 3380290, city name: Sinnamary
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=sinnamary,gf
+City number: 2074865, city name: Carnarvon
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=carnarvon,au
+No weather data found for mataura
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mataura,pf
+City number: 3372707, city name: Ribeira Grande
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ribeira grande,pt
+No weather data found for vaitupu
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=vaitupu,wf
+City number: 3465639, city name: Conselheiro Pena
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=conselheiro pena,br
+City number: 2015306, city name: Tiksi
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=tiksi,ru
+City number: 5850554, city name: Makakilo City
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=makakilo city,us
+No weather data found for mataura
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mataura,pf
+City number: 2151187, city name: Roma
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=roma,au
+City number: 3354178, city name: Ongandjera
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ongandjera,na
+No weather data found for codrington
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=codrington,ag
+City number: 1006984, city name: East London
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=east london,za
+No weather data found for illoqqortoormiut
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=illoqqortoormiut,gl
+City number: 4032243, city name: Vaini
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=vaini,to
+City number: 2063036, city name: Port Lincoln
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=port lincoln,au
+City number: 2038665, city name: Alihe
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=alihe,cn
+City number: 3833367, city name: Ushuaia
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ushuaia,ar
+City number: 2077963, city name: Albany
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=albany,au
+No weather data found for bengkulu
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=bengkulu,id
+No weather data found for mataura
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mataura,pf
+City number: 1735799, city name: Sri Aman
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=sri aman,my
+City number: 2522849, city name: Troina
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=troina,it
+City number: 3893656, city name: Copiapo
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=copiapo,cl
+City number: 4021858, city name: Guerrero Negro
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=guerrero negro,mx
+City number: 4407665, city name: Kodiak
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kodiak,us
+City number: 3893629, city name: Coquimbo
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=coquimbo,cl
+City number: 3833367, city name: Ushuaia
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ushuaia,ar
+City number: 3370903, city name: Jamestown
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=jamestown,sh
+City number: 3874787, city name: Punta Arenas
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=punta arenas,cl
+City number: 5848280, city name: Kapaa
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kapaa,us
+City number: 3418910, city name: Upernavik
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=upernavik,gl
+City number: 1006984, city name: East London
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=east london,za
+No weather data found for laguna
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=laguna,br
+No weather data found for taolanaro
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=taolanaro,mg
+City number: 1280957, city name: Jiayuguan
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=jiayuguan,cn
+City number: 4985153, city name: Battle Creek
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=battle creek,us
+City number: 2155415, city name: New Norfolk
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=new norfolk,au
+City number: 5882953, city name: Aklavik
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=aklavik,ca
+City number: 3874787, city name: Punta Arenas
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=punta arenas,cl
+City number: 1162862, city name: Uthal
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=uthal,pk
+City number: 2411397, city name: Georgetown
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=georgetown,sh
+City number: 546105, city name: Nikolskoye
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=nikolskoye,ru
+City number: 2028164, city name: Deputatskiy
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=deputatskiy,ru
+No weather data found for tsihombe
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=tsihombe,mg
+City number: 3361934, city name: Saldanha
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=saldanha,za
+City number: 293308, city name: Tirat Karmel
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=tirat karmel,il
+City number: 1568770, city name: Quang Ngai
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=quang ngai,vn
+City number: 3421719, city name: Narsaq
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=narsaq,gl
+City number: 2186111, city name: Ngunguru
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ngunguru,nz
+City number: 2184512, city name: Pleasant Point
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=pleasant point,nz
+City number: 3663517, city name: Livramento
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=livramento,br
+City number: 3464363, city name: Edeia
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=edeia,br
+City number: 2298264, city name: Mampong
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mampong,gh
+City number: 2170577, city name: Cooma
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=cooma,au
+City number: 4252975, city name: Barrow
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=barrow,us
+City number: 3354077, city name: Opuwo
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=opuwo,na
+City number: 103630, city name: Najran
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=najran,sa
+City number: 3652764, city name: Puerto Ayora
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=puerto ayora,ec
+No weather data found for mataura
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mataura,pf
+City number: 5880568, city name: Bethel
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=bethel,us
+City number: 5924351, city name: Clyde River
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=clyde river,ca
+City number: 3833367, city name: Ushuaia
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ushuaia,ar
+City number: 2206939, city name: Bluff
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=bluff,nz
+City number: 4252975, city name: Barrow
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=barrow,us
+City number: 4032243, city name: Vaini
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=vaini,to
+City number: 370481, city name: Marawi
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=marawi,sd
+City number: 2014833, city name: Tura
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=tura,ru
+City number: 2012956, city name: Yerbogachen
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=yerbogachen,ru
+City number: 304782, city name: Marmaris
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=marmaris,tr
+City number: 286987, city name: Nizwa
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=nizwa,om
+City number: 2155415, city name: New Norfolk
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=new norfolk,au
+City number: 3662395, city name: Santo Antonio do Ica
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=santo antonio do ica,br
+City number: 2331447, city name: Maiduguri
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=maiduguri,ng
+City number: 2729907, city name: Longyearbyen
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=longyearbyen,sj
+City number: 3874787, city name: Punta Arenas
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=punta arenas,cl
+City number: 2162662, city name: Inverell
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=inverell,au
+City number: 2126199, city name: Cherskiy
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=cherskiy,ru
+City number: 4034551, city name: Faanui
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=faanui,pf
+City number: 215527, city name: Kabinda
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kabinda,cd
+City number: 241131, city name: Victoria
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=victoria,sc
+City number: 2411397, city name: Georgetown
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=georgetown,sh
+City number: 4030556, city name: Rikitea
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=rikitea,pf
+City number: 2729907, city name: Longyearbyen
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=longyearbyen,sj
+City number: 6355222, city name: Yulara
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=yulara,au
+City number: 3424607, city name: Tasiilaq
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=tasiilaq,gl
+City number: 2139259, city name: Ouegoa
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ouegoa,nc
+No weather data found for mataura
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mataura,pf
+City number: 4034551, city name: Faanui
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=faanui,pf
+City number: 1056899, city name: Sambava
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=sambava,mg
+City number: 1810309, city name: Gaoyou
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=gaoyou,cn
+City number: 3412093, city name: Vestmannaeyjar
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=vestmannaeyjar,is
+City number: 934089, city name: Grande Riviere Noire
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=grande riviere noire,mu
+City number: 2629833, city name: Husavik
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=husavik,is
+City number: 2077963, city name: Albany
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=albany,au
+City number: 4030556, city name: Rikitea
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=rikitea,pf
+City number: 3424607, city name: Tasiilaq
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=tasiilaq,gl
+City number: 2075265, city name: Busselton
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=busselton,au
+City number: 3573197, city name: Hamilton
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hamilton,bm
+City number: 3370903, city name: Jamestown
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=jamestown,sh
+City number: 2101169, city name: Aitape
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=aitape,pg
+City number: 1006984, city name: East London
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=east london,za
+City number: 2017409, city name: Romny
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=romny,ru
+City number: 4032243, city name: Vaini
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=vaini,to
+City number: 2075265, city name: Busselton
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=busselton,au
+City number: 2075265, city name: Busselton
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=busselton,au
+No weather data found for belushya guba
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=belushya guba,ru
+No weather data found for asau
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=asau,tv
+City number: 1015776, city name: Bredasdorp
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=bredasdorp,za
+No weather data found for asau
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=asau,tv
+City number: 2012530, city name: Zhigansk
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=zhigansk,ru
+City number: 2022572, city name: Khatanga
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=khatanga,ru
+City number: 2155415, city name: New Norfolk
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=new norfolk,au
+City number: 3418910, city name: Upernavik
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=upernavik,gl
+City number: 5848280, city name: Kapaa
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kapaa,us
+City number: 3366880, city name: Hermanus
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hermanus,za
+City number: 2075265, city name: Busselton
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=busselton,au
+City number: 2147381, city name: Taree
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=taree,au
+No weather data found for moiyabana
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=moiyabana,bw
+City number: 2139521, city name: Noumea
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=noumea,nc
+City number: 4030556, city name: Rikitea
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=rikitea,pf
+City number: 2038342, city name: Beipiao
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=beipiao,cn
+City number: 3985710, city name: Cabo San Lucas
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=cabo san lucas,mx
+City number: 4032243, city name: Vaini
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=vaini,to
+City number: 2126682, city name: Bilibino
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=bilibino,ru
+City number: 4035715, city name: Avarua
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=avarua,ck
+No weather data found for amderma
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=amderma,ru
+City number: 2035836, city name: Manzhouli
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=manzhouli,cn
+City number: 2110227, city name: Butaritari
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=butaritari,ki
+City number: 3370903, city name: Jamestown
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=jamestown,sh
+No weather data found for mataura
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mataura,pf
+City number: 4036284, city name: Alofi
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=alofi,nu
+City number: 3366880, city name: Hermanus
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hermanus,za
+City number: 3623258, city name: La Cruz
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=la cruz,cr
+No weather data found for bengkulu
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=bengkulu,id
+City number: 6111862, city name: Port Hardy
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=port hardy,ca
+No weather data found for airai
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=airai,pw
+City number: 3831208, city name: Qaanaaq
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=qaanaaq,gl
+City number: 1486321, city name: Yar-Sale
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=yar-sale,ru
+City number: 3661980, city name: Tamandare
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=tamandare,br
+City number: 3451138, city name: Rio Grande
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=rio grande,br
+City number: 1006984, city name: East London
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=east london,za
+City number: 3370903, city name: Jamestown
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=jamestown,sh
+No weather data found for kazalinsk
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kazalinsk,kz
+City number: 3366880, city name: Hermanus
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hermanus,za
+No weather data found for mataura
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mataura,pf
+City number: 2374583, city name: Bubaque
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=bubaque,gw
+No weather data found for airai
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=airai,pw
+City number: 1540711, city name: Muravlenko
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=muravlenko,ru
+City number: 1486321, city name: Yar-Sale
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=yar-sale,ru
+City number: 4032243, city name: Vaini
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=vaini,to
+City number: 2017155, city name: Saskylakh
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=saskylakh,ru
+City number: 4030556, city name: Rikitea
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=rikitea,pf
+City number: 6185377, city name: Yellowknife
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=yellowknife,ca
+City number: 6148373, city name: Sioux Lookout
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=sioux lookout,ca
+No weather data found for airai
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=airai,pw
+City number: 4031574, city name: Provideniya
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=provideniya,ru
+City number: 2444219, city name: Goure
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=goure,ne
+City number: 517739, city name: Novouzensk
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=novouzensk,ru
+No weather data found for illoqqortoormiut
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=illoqqortoormiut,gl
+City number: 2077963, city name: Albany
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=albany,au
+City number: 2208248, city name: Kaitangata
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kaitangata,nz
+City number: 4328010, city name: Houma
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=houma,us
+City number: 2012956, city name: Yerbogachen
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=yerbogachen,ru
+No weather data found for mataura
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mataura,pf
+City number: 3522013, city name: Nuevo Progreso
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=nuevo progreso,mx
+No weather data found for palabuhanratu
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=palabuhanratu,id
+City number: 4030556, city name: Rikitea
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=rikitea,pf
+No weather data found for scottsburgh
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=scottsburgh,za
+City number: 964432, city name: Port Alfred
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=port alfred,za
+City number: 2229798, city name: Kousseri
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kousseri,cm
+City number: 3372707, city name: Ribeira Grande
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ribeira grande,pt
+City number: 3374346, city name: Ponta do Sol
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ponta do sol,cv
+City number: 935215, city name: Saint-Philippe
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=saint-philippe,re
+City number: 3899695, city name: Ancud
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ancud,cl
+City number: 5848280, city name: Kapaa
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kapaa,us
+City number: 4035715, city name: Avarua
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=avarua,ck
+City number: 3141667, city name: Roald
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=roald,no
+City number: 2278158, city name: Buchanan
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=buchanan,lr
+No weather data found for barentsburg
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=barentsburg,sj
+City number: 6167817, city name: Torbay
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=torbay,ca
+City number: 6165406, city name: Thompson
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=thompson,ca
+City number: 2173911, city name: Broken Hill
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=broken hill,au
+City number: 1510689, city name: Baykit
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=baykit,ru
+City number: 4030556, city name: Rikitea
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=rikitea,pf
+City number: 2112802, city name: Hasaki
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hasaki,jp
+No weather data found for asau
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=asau,tv
+City number: 3652764, city name: Puerto Ayora
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=puerto ayora,ec
+City number: 5179193, city name: Bath
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=bath,us
+City number: 3939761, city name: Hualmay
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hualmay,pe
+City number: 2015306, city name: Tiksi
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=tiksi,ru
+City number: 1267390, city name: Kavaratti
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kavaratti,in
+City number: 2121385, city name: Severo-Kurilsk
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=severo-kurilsk,ru
+City number: 1507390, city name: Dikson
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=dikson,ru
+City number: 3939168, city name: Huarmey
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=huarmey,pe
+City number: 3874787, city name: Punta Arenas
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=punta arenas,cl
+City number: 4535823, city name: Elk City
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=elk city,us
+City number: 4030556, city name: Rikitea
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=rikitea,pf
+City number: 6170031, city name: Tuktoyaktuk
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=tuktoyaktuk,ca
+City number: 1006984, city name: East London
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=east london,za
+No weather data found for barentsburg
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=barentsburg,sj
+City number: 2017155, city name: Saskylakh
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=saskylakh,ru
+City number: 2130741, city name: Abashiri
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=abashiri,jp
+City number: 3372707, city name: Ribeira Grande
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ribeira grande,pt
+City number: 3833367, city name: Ushuaia
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ushuaia,ar
+City number: 2063036, city name: Port Lincoln
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=port lincoln,au
+City number: 3996234, city name: Lazaro Cardenas
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=lazaro cardenas,mx
+No weather data found for mataura
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mataura,pf
+City number: 4267710, city name: Sitka
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=sitka,us
+City number: 546742, city name: Kodino
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kodino,ru
+City number: 3833367, city name: Ushuaia
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ushuaia,ar
+City number: 3874787, city name: Punta Arenas
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=punta arenas,cl
+City number: 2075265, city name: Busselton
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=busselton,au
+City number: 3831208, city name: Qaanaaq
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=qaanaaq,gl
+No weather data found for chagda
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=chagda,ru
+City number: 3833367, city name: Ushuaia
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ushuaia,ar
+City number: 1529484, city name: Hami
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hami,cn
+City number: 1801582, city name: Macheng
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=macheng,cn
+City number: 3374336, city name: Porto Novo
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=porto novo,cv
+City number: 2155415, city name: New Norfolk
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=new norfolk,au
+City number: 4020109, city name: Atuona
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=atuona,pf
+City number: 2119447, city name: Yuzhno-Kurilsk
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=yuzhno-kurilsk,ru
+City number: 3370903, city name: Jamestown
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=jamestown,sh
+No weather data found for mataura
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mataura,pf
+City number: 1622318, city name: Waingapu
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=waingapu,id
+City number: 5924351, city name: Clyde River
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=clyde river,ca
+City number: 3833367, city name: Ushuaia
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ushuaia,ar
+No weather data found for illoqqortoormiut
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=illoqqortoormiut,gl
+City number: 1507390, city name: Dikson
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=dikson,ru
+City number: 1529484, city name: Hami
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hami,cn
+City number: 241131, city name: Victoria
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=victoria,sc
+City number: 3932145, city name: Pisco
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=pisco,pe
+City number: 335288, city name: Hagere Hiywet
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hagere hiywet,et
+City number: 6089245, city name: Norman Wells
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=norman wells,ca
+City number: 352628, city name: Matay
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=matay,eg
+City number: 3652764, city name: Puerto Ayora
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=puerto ayora,ec
+City number: 3449747, city name: Santa Vitoria do Palmar
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=santa vitoria do palmar,br
+City number: 4030556, city name: Rikitea
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=rikitea,pf
+City number: 3393471, city name: Oriximina
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=oriximina,br
+City number: 5855927, city name: Hilo
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hilo,us
+City number: 3728097, city name: Les Cayes
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=les cayes,ht
+City number: 1015776, city name: Bredasdorp
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=bredasdorp,za
+City number: 4030556, city name: Rikitea
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=rikitea,pf
+City number: 2501152, city name: Constantine
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=constantine,dz
+City number: 3924679, city name: Vilhena
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=vilhena,br
+City number: 2090021, city name: Namatanai
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=namatanai,pg
+City number: 5021632, city name: Cloquet
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=cloquet,us
+City number: 3863379, city name: Mar del Plata
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mar del plata,ar
+City number: 3393471, city name: Oriximina
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=oriximina,br
+City number: 2015306, city name: Tiksi
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=tiksi,ru
+City number: 2125945, city name: Dolinsk
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=dolinsk,ru
+City number: 2343279, city name: Enugu
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=enugu,ng
+City number: 2012956, city name: Yerbogachen
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=yerbogachen,ru
+City number: 3361934, city name: Saldanha
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=saldanha,za
+No weather data found for taolanaro
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=taolanaro,mg
+City number: 6185377, city name: Yellowknife
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=yellowknife,ca
+No weather data found for laguna
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=laguna,br
+City number: 2206939, city name: Bluff
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=bluff,nz
+City number: 4034496, city name: Fare
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=fare,pf
+City number: 1528998, city name: Yumen
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=yumen,cn
+City number: 4030556, city name: Rikitea
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=rikitea,pf
+City number: 3470338, city name: Bataipora
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=bataipora,br
+City number: 2094342, city name: Kavieng
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kavieng,pg
+City number: 1507390, city name: Dikson
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=dikson,ru
+City number: 2077963, city name: Albany
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=albany,au
+City number: 3874787, city name: Punta Arenas
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=punta arenas,cl
+City number: 3401225, city name: Amapa
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=amapa,br
+City number: 4030556, city name: Rikitea
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=rikitea,pf
+City number: 4032243, city name: Vaini
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=vaini,to
+City number: 4031574, city name: Provideniya
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=provideniya,ru
+No weather data found for chkalovskoye
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=chkalovskoye,ru
+City number: 2077963, city name: Albany
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=albany,au
+City number: 110690, city name: Abha
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=abha,sa
+City number: 1282256, city name: Hithadhoo
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hithadhoo,mv
+City number: 3831208, city name: Qaanaaq
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=qaanaaq,gl
+City number: 4033557, city name: Tautira
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=tautira,pf
+City number: 935215, city name: Saint-Philippe
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=saint-philippe,re
+No weather data found for codrington
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=codrington,ag
+City number: 2071860, city name: Esperance
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=esperance,au
+City number: 911148, city name: Luangwa
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=luangwa,zm
+City number: 4030556, city name: Rikitea
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=rikitea,pf
+City number: 2015352, city name: Terney
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=terney,ru
+City number: 6160603, city name: Swift Current
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=swift current,ca
+City number: 5855927, city name: Hilo
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hilo,us
+City number: 6167817, city name: Torbay
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=torbay,ca
+City number: 4031637, city name: Lavrentiya
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=lavrentiya,ru
+City number: 2431736, city name: Goundi
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=goundi,td
+City number: 1528998, city name: Yumen
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=yumen,cn
+City number: 2121909, city name: Poronaysk
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=poronaysk,ru
+City number: 5848280, city name: Kapaa
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kapaa,us
+No weather data found for taolanaro
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=taolanaro,mg
+City number: 3874787, city name: Punta Arenas
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=punta arenas,cl
+City number: 3906209, city name: Rurrenabaque
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=rurrenabaque,bo
+No weather data found for cagayan de tawi-tawi
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=cagayan de tawi-tawi,ph
+City number: 3372472, city name: Vila Franca do Campo
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=vila franca do campo,pt
+City number: 2206939, city name: Bluff
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=bluff,nz
+City number: 1510689, city name: Baykit
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=baykit,ru
+City number: 2077963, city name: Albany
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=albany,au
+City number: 2070998, city name: Geraldton
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=geraldton,au
+City number: 1805680, city name: Jingdezhen
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=jingdezhen,cn
+City number: 3366880, city name: Hermanus
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hermanus,za
+City number: 3883457, city name: Lebu
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=lebu,cl
+City number: 2960970, city name: Westport
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=westport,ie
+City number: 3874787, city name: Punta Arenas
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=punta arenas,cl
+City number: 4030556, city name: Rikitea
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=rikitea,pf
+City number: 3896218, city name: Castro
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=castro,cl
+City number: 2020838, city name: Lensk
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=lensk,ru
+City number: 3370903, city name: Jamestown
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=jamestown,sh
+City number: 3896218, city name: Castro
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=castro,cl
+City number: 2129868, city name: Iwanai
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=iwanai,jp
+City number: 3654410, city name: Manta
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=manta,ec
+City number: 3863379, city name: Mar del Plata
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mar del plata,ar
+City number: 5563839, city name: Fortuna
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=fortuna,us
+No weather data found for saleaula
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=saleaula,ws
+City number: 1076454, city name: Andapa
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=andapa,mg
+City number: 2267254, city name: Lagoa
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=lagoa,pt
+City number: 5847411, city name: Kahului
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kahului,us
+City number: 1805757, city name: Jimo
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=jimo,cn
+City number: 215976, city name: Ilebo
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ilebo,cd
+City number: 3652764, city name: Puerto Ayora
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=puerto ayora,ec
+City number: 4020109, city name: Atuona
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=atuona,pf
+No weather data found for taolanaro
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=taolanaro,mg
+No weather data found for taolanaro
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=taolanaro,mg
+City number: 2077963, city name: Albany
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=albany,au
+City number: 4033356, city name: Tiarei
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=tiarei,pf
+City number: 3652764, city name: Puerto Ayora
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=puerto ayora,ec
+City number: 2112444, city name: Kamaishi
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kamaishi,jp
+City number: 4032243, city name: Vaini
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=vaini,to
+City number: 2163355, city name: Hobart
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hobart,au
+City number: 3833367, city name: Ushuaia
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ushuaia,ar
+City number: 1650233, city name: Banjar
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=banjar,id
+City number: 5924351, city name: Clyde River
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=clyde river,ca
+City number: 2027296, city name: Aykhal
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=aykhal,ru
+City number: 3831208, city name: Qaanaaq
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=qaanaaq,gl
+City number: 3833367, city name: Ushuaia
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ushuaia,ar
+City number: 2137773, city name: Vao
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=vao,nc
+City number: 3833367, city name: Ushuaia
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ushuaia,ar
+City number: 2093846, city name: Kiunga
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kiunga,pg
+City number: 3874787, city name: Punta Arenas
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=punta arenas,cl
+City number: 6170031, city name: Tuktoyaktuk
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=tuktoyaktuk,ca
+City number: 3377301, city name: Mabaruma
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mabaruma,gy
+City number: 2618795, city name: Klaksvik
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=klaksvik,fo
+City number: 2126123, city name: Chokurdakh
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=chokurdakh,ru
+City number: 4020109, city name: Atuona
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=atuona,pf
+City number: 2208248, city name: Kaitangata
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kaitangata,nz
+City number: 1804540, city name: Langfang
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=langfang,cn
+City number: 4030556, city name: Rikitea
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=rikitea,pf
+City number: 6104820, city name: Pinawa
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=pinawa,ca
+City number: 2028164, city name: Deputatskiy
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=deputatskiy,ru
+City number: 1692685, city name: Puerto Princesa
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=puerto princesa,ph
+City number: 538879, city name: Kurdzhinovo
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kurdzhinovo,ru
+City number: 3424607, city name: Tasiilaq
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=tasiilaq,gl
+No weather data found for codrington
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=codrington,ag
+City number: 1856717, city name: Shintomi
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=shintomi,jp
+City number: 3831208, city name: Qaanaaq
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=qaanaaq,gl
+City number: 3420846, city name: Qaqortoq
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=qaqortoq,gl
+City number: 2180815, city name: Tuatapere
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=tuatapere,nz
+City number: 3466165, city name: Cidreira
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=cidreira,br
+City number: 142363, city name: Babol
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=babol,ir
+City number: 3833367, city name: Ushuaia
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ushuaia,ar
+City number: 3874787, city name: Punta Arenas
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=punta arenas,cl
+No weather data found for codrington
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=codrington,ag
+City number: 303873, city name: Nazilli
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=nazilli,tr
+City number: 4030556, city name: Rikitea
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=rikitea,pf
+City number: 934479, city name: Grand Gaube
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=grand gaube,mu
+City number: 4020109, city name: Atuona
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=atuona,pf
+City number: 2112802, city name: Hasaki
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hasaki,jp
+City number: 4252975, city name: Barrow
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=barrow,us
+City number: 362973, city name: Abnub
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=abnub,eg
+City number: 3573061, city name: Saint George
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=saint george,bm
+City number: 2264923, city name: Peniche
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=peniche,pt
+City number: 4030556, city name: Rikitea
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=rikitea,pf
+City number: 964420, city name: Port Elizabeth
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=port elizabeth,za
+City number: 2074865, city name: Carnarvon
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=carnarvon,au
+City number: 3374210, city name: Sao Filipe
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=sao filipe,cv
+City number: 2155415, city name: New Norfolk
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=new norfolk,au
+City number: 3421719, city name: Narsaq
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=narsaq,gl
+City number: 552465, city name: Kargopol
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kargopol,ru
+City number: 5855927, city name: Hilo
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hilo,us
+City number: 3833367, city name: Ushuaia
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ushuaia,ar
+City number: 4020109, city name: Atuona
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=atuona,pf
+City number: 3424607, city name: Tasiilaq
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=tasiilaq,gl
+City number: 3833367, city name: Ushuaia
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ushuaia,ar
+City number: 5384339, city name: Port Hueneme
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=port hueneme,us
+City number: 5725846, city name: Eugene
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=eugene,us
+City number: 3833367, city name: Ushuaia
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ushuaia,ar
+City number: 2071860, city name: Esperance
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=esperance,au
+City number: 3357114, city name: Grootfontein
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=grootfontein,na
+No weather data found for airai
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=airai,pw
+City number: 2075265, city name: Busselton
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=busselton,au
+No weather data found for illoqqortoormiut
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=illoqqortoormiut,gl
+City number: 1848373, city name: Fukue
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=fukue,jp
+City number: 3366880, city name: Hermanus
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hermanus,za
+City number: 5969025, city name: Haines Junction
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=haines junction,ca
+No weather data found for taolanaro
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=taolanaro,mg
+City number: 3374346, city name: Ponta do Sol
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ponta do sol,cv
+City number: 1861416, city name: Ishigaki
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ishigaki,jp
+City number: 964432, city name: Port Alfred
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=port alfred,za
+City number: 780687, city name: Berlevag
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=berlevag,no
+No weather data found for taolanaro
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=taolanaro,mg
+City number: 2191562, city name: Dunedin
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=dunedin,nz
+City number: 3833367, city name: Ushuaia
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ushuaia,ar
+City number: 934322, city name: Mahebourg
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mahebourg,mu
+City number: 3372707, city name: Ribeira Grande
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ribeira grande,pt
+City number: 2636638, city name: Stromness
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=stromness,gb
+No weather data found for umzimvubu
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=umzimvubu,za
+City number: 1015776, city name: Bredasdorp
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=bredasdorp,za
+City number: 1235846, city name: Matara
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=matara,lk
+City number: 4267710, city name: Sitka
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=sitka,us
+City number: 2206939, city name: Bluff
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=bluff,nz
+City number: 6089245, city name: Norman Wells
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=norman wells,ca
+No weather data found for labutta
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=labutta,mm
+City number: 3833367, city name: Ushuaia
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ushuaia,ar
+City number: 2121385, city name: Severo-Kurilsk
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=severo-kurilsk,ru
+City number: 546105, city name: Nikolskoye
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=nikolskoye,ru
+City number: 1282256, city name: Hithadhoo
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hithadhoo,mv
+City number: 2070998, city name: Geraldton
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=geraldton,au
+No weather data found for bengkulu
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=bengkulu,id
+City number: 3831208, city name: Qaanaaq
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=qaanaaq,gl
+City number: 4032243, city name: Vaini
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=vaini,to
+No weather data found for mataura
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mataura,pf
+No weather data found for mataura
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mataura,pf
+City number: 324698, city name: Akhisar
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=akhisar,tr
+City number: 1865309, city name: Katsuura
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=katsuura,jp
+City number: 2071860, city name: Esperance
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=esperance,au
+City number: 3512067, city name: Bani
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=bani,do
+City number: 2070998, city name: Geraldton
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=geraldton,au
+City number: 1731531, city name: Algeciras
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=algeciras,ph
+City number: 3369157, city name: Cape Town
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=cape town,za
+No weather data found for kytlym
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kytlym,ru
+City number: 1507390, city name: Dikson
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=dikson,ru
+City number: 1242110, city name: Kalmunai
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kalmunai,lk
+City number: 609919, city name: Kuryk
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kuryk,kz
+City number: 3366880, city name: Hermanus
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hermanus,za
+No weather data found for vaitupu
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=vaitupu,wf
+City number: 2077963, city name: Albany
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=albany,au
+City number: 2206939, city name: Bluff
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=bluff,nz
+City number: 1056899, city name: Sambava
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=sambava,mg
+City number: 2110227, city name: Butaritari
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=butaritari,ki
+City number: 3899695, city name: Ancud
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ancud,cl
+City number: 3123493, city name: Ferrol
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ferrol,es
+City number: 3833367, city name: Ushuaia
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ushuaia,ar
+No weather data found for illoqqortoormiut
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=illoqqortoormiut,gl
+No weather data found for zhanatas
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=zhanatas,kz
+No weather data found for sentyabrskiy
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=sentyabrskiy,ru
+City number: 343292, city name: Asosa
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=asosa,et
+City number: 5924351, city name: Clyde River
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=clyde river,ca
+City number: 2138555, city name: Poum
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=poum,nc
+City number: 4021858, city name: Guerrero Negro
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=guerrero negro,mx
+City number: 89113, city name: Ajdabiya
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ajdabiya,ly
+City number: 3372707, city name: Ribeira Grande
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ribeira grande,pt
+No weather data found for airai
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=airai,pw
+City number: 2077963, city name: Albany
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=albany,au
+City number: 217834, city name: Bukama
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=bukama,cd
+City number: 1865309, city name: Katsuura
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=katsuura,jp
+No weather data found for mataura
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mataura,pf
+City number: 1507390, city name: Dikson
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=dikson,ru
+City number: 4030556, city name: Rikitea
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=rikitea,pf
+City number: 5848280, city name: Kapaa
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kapaa,us
+City number: 5871146, city name: Palmer
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=palmer,us
+City number: 2110227, city name: Butaritari
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=butaritari,ki
+City number: 3874787, city name: Punta Arenas
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=punta arenas,cl
+City number: 2110227, city name: Butaritari
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=butaritari,ki
+City number: 3374346, city name: Ponta do Sol
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ponta do sol,cv
+No weather data found for mataura
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mataura,pf
+City number: 2013727, city name: Vanavara
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=vanavara,ru
+City number: 3369157, city name: Cape Town
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=cape town,za
+City number: 2521436, city name: Azuaga
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=azuaga,es
+City number: 3449696, city name: Santo Angelo
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=santo angelo,br
+City number: 4030556, city name: Rikitea
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=rikitea,pf
+No weather data found for payo
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=payo,ph
+City number: 2411397, city name: Georgetown
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=georgetown,sh
+City number: 3366880, city name: Hermanus
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hermanus,za
+City number: 3932145, city name: Pisco
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=pisco,pe
+No weather data found for amderma
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=amderma,ru
+City number: 3131500, city name: Visnes
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=visnes,no
+City number: 3369157, city name: Cape Town
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=cape town,za
+City number: 5969025, city name: Haines Junction
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=haines junction,ca
+City number: 50672, city name: Wanlaweyn
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=wanlaweyn,so
+City number: 3832899, city name: Viedma
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=viedma,ar
+City number: 934322, city name: Mahebourg
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mahebourg,mu
+City number: 3366880, city name: Hermanus
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hermanus,za
+City number: 3366880, city name: Hermanus
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hermanus,za
+City number: 3370903, city name: Jamestown
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=jamestown,sh
+City number: 1580240, city name: Hue
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hue,vn
+City number: 3831208, city name: Qaanaaq
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=qaanaaq,gl
+City number: 1606030, city name: Surin
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=surin,th
+City number: 2075265, city name: Busselton
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=busselton,au
+City number: 2206939, city name: Bluff
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=bluff,nz
+City number: 2630299, city name: Hofn
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hofn,is
+City number: 2110227, city name: Butaritari
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=butaritari,ki
+City number: 2039557, city name: Khasan
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=khasan,ru
+City number: 2163355, city name: Hobart
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hobart,au
+City number: 1731594, city name: Alcantara
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=alcantara,ph
+City number: 3456160, city name: Olinda
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=olinda,br
+City number: 1282256, city name: Hithadhoo
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hithadhoo,mv
+City number: 2191562, city name: Dunedin
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=dunedin,nz
+City number: 2022572, city name: Khatanga
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=khatanga,ru
+City number: 6089245, city name: Norman Wells
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=norman wells,ca
+City number: 1862505, city name: Hirara
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hirara,jp
+City number: 6690296, city name: Saint-Joseph
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=saint-joseph,re
+City number: 1651103, city name: Atambua
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=atambua,id
+City number: 777019, city name: Vardo
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=vardo,no
+City number: 4407665, city name: Kodiak
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kodiak,us
+City number: 5848280, city name: Kapaa
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kapaa,us
+No weather data found for nizhneyansk
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=nizhneyansk,ru
+City number: 3652764, city name: Puerto Ayora
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=puerto ayora,ec
+City number: 3573061, city name: Saint George
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=saint george,bm
+City number: 2121385, city name: Severo-Kurilsk
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=severo-kurilsk,ru
+City number: 1490256, city name: Talnakh
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=talnakh,ru
+No weather data found for lolua
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=lolua,tv
+City number: 3833367, city name: Ushuaia
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ushuaia,ar
+No weather data found for tsihombe
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=tsihombe,mg
+City number: 3369157, city name: Cape Town
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=cape town,za
+City number: 3939168, city name: Huarmey
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=huarmey,pe
+City number: 5855927, city name: Hilo
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hilo,us
+City number: 546105, city name: Nikolskoye
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=nikolskoye,ru
+City number: 3369157, city name: Cape Town
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=cape town,za
+City number: 4231354, city name: Wilmington Island
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=wilmington island,us
+City number: 1280037, city name: Shache
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=shache,cn
+City number: 2123814, city name: Leningradskiy
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=leningradskiy,ru
+City number: 3369157, city name: Cape Town
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=cape town,za
+No weather data found for bengkulu
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=bengkulu,id
+City number: 5785243, city name: Aberdeen
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=aberdeen,us
+City number: 3424607, city name: Tasiilaq
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=tasiilaq,gl
+City number: 5861897, city name: Fairbanks
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=fairbanks,us
+City number: 2068110, city name: Kununurra
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kununurra,au
+City number: 3932145, city name: Pisco
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=pisco,pe
+City number: 4207400, city name: Macon
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=macon,us
+No weather data found for skalistyy
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=skalistyy,ru
+No weather data found for samusu
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=samusu,ws
+City number: 6089245, city name: Norman Wells
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=norman wells,ca
+City number: 187231, city name: Maua
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=maua,ke
+City number: 2077963, city name: Albany
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=albany,au
+City number: 3424607, city name: Tasiilaq
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=tasiilaq,gl
+City number: 658630, city name: Haukipudas
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=haukipudas,fi
+City number: 6171633, city name: Ucluelet
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ucluelet,ca
+City number: 583573, city name: Russkiy Aktash
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=russkiy aktash,ru
+City number: 2686469, city name: Ornskoldsvik
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ornskoldsvik,se
+City number: 2077895, city name: Alice Springs
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=alice springs,au
+City number: 1794903, city name: Shiyan
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=shiyan,cn
+City number: 2126123, city name: Chokurdakh
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=chokurdakh,ru
+No weather data found for aflu
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=aflu,dz
+City number: 470473, city name: Vygonichi
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=vygonichi,ru
+City number: 3661980, city name: Tamandare
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=tamandare,br
+City number: 3557923, city name: Marti
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=marti,cu
+City number: 4032243, city name: Vaini
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=vaini,to
+City number: 964420, city name: Port Elizabeth
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=port elizabeth,za
+No weather data found for vaitupu
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=vaitupu,wf
+City number: 3939168, city name: Huarmey
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=huarmey,pe
+City number: 4033356, city name: Tiarei
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=tiarei,pf
+City number: 4267710, city name: Sitka
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=sitka,us
+City number: 3833367, city name: Ushuaia
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ushuaia,ar
+City number: 4032243, city name: Vaini
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=vaini,to
+City number: 2163355, city name: Hobart
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hobart,au
+City number: 1512019, city name: Aksarka
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=aksarka,ru
+City number: 3833367, city name: Ushuaia
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ushuaia,ar
+City number: 3831208, city name: Qaanaaq
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=qaanaaq,gl
+City number: 2206939, city name: Bluff
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=bluff,nz
+No weather data found for yunjinghong
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=yunjinghong,cn
+City number: 546105, city name: Nikolskoye
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=nikolskoye,ru
+City number: 3932145, city name: Pisco
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=pisco,pe
+No weather data found for mataura
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mataura,pf
+City number: 5848280, city name: Kapaa
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kapaa,us
+City number: 5515743, city name: Guymon
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=guymon,us
+City number: 2464157, city name: Wadi Maliz
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=wadi maliz,tn
+City number: 589375, city name: Mammaste
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mammaste,ee
+City number: 3370903, city name: Jamestown
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=jamestown,sh
+City number: 1015776, city name: Bredasdorp
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=bredasdorp,za
+City number: 2966778, city name: Ballina
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ballina,ie
+City number: 2145554, city name: Ulladulla
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ulladulla,au
+City number: 2126123, city name: Chokurdakh
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=chokurdakh,ru
+City number: 1804430, city name: Lanzhou
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=lanzhou,cn
+City number: 2986626, city name: Plouzane
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=plouzane,fr
+City number: 3652764, city name: Puerto Ayora
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=puerto ayora,ec
+City number: 3874787, city name: Punta Arenas
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=punta arenas,cl
+No weather data found for harigue
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=harigue,ph
+City number: 3863379, city name: Mar del Plata
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mar del plata,ar
+City number: 1791779, city name: Wanning
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=wanning,cn
+City number: 2012593, city name: Zeya
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=zeya,ru
+City number: 3423146, city name: Ilulissat
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ilulissat,gl
+City number: 1507390, city name: Dikson
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=dikson,ru
+City number: 2206939, city name: Bluff
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=bluff,nz
+City number: 2156643, city name: Mount Gambier
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mount gambier,au
+No weather data found for sorvag
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=sorvag,fo
+City number: 1803567, city name: Linfen
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=linfen,cn
+City number: 6139154, city name: Saint-Tite
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=saint-tite,ca
+No weather data found for bure
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=bure,et
+City number: 2122090, city name: Pevek
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=pevek,ru
+City number: 3833367, city name: Ushuaia
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ushuaia,ar
+City number: 1622318, city name: Waingapu
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=waingapu,id
+City number: 3833367, city name: Ushuaia
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ushuaia,ar
+City number: 3896218, city name: Castro
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=castro,cl
+City number: 2178753, city name: Kirakira
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kirakira,sb
+City number: 2126710, city name: Beringovskiy
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=beringovskiy,ru
+City number: 2440485, city name: Niamey
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=niamey,ne
+City number: 352628, city name: Matay
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=matay,eg
+City number: 2101169, city name: Aitape
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=aitape,pg
+City number: 2754817, city name: Harlingen
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=harlingen,nl
+City number: 4407665, city name: Kodiak
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kodiak,us
+No weather data found for attawapiskat
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=attawapiskat,ca
+City number: 2194098, city name: Ahipara
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ahipara,nz
+City number: 2514190, city name: Manzanares
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=manzanares,es
+No weather data found for fevralsk
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=fevralsk,ru
+City number: 3883457, city name: Lebu
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=lebu,cl
+City number: 4252975, city name: Barrow
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=barrow,us
+City number: 3833367, city name: Ushuaia
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ushuaia,ar
+City number: 371745, city name: Kutum
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kutum,sd
+City number: 2181001, city name: Tokomaru
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=tokomaru,nz
+City number: 2411397, city name: Georgetown
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=georgetown,sh
+City number: 4030556, city name: Rikitea
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=rikitea,pf
+City number: 1818051, city name: Anjiang
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=anjiang,cn
+City number: 3085941, city name: Sierpc
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=sierpc,pl
+City number: 4032243, city name: Vaini
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=vaini,to
+No weather data found for taolanaro
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=taolanaro,mg
+City number: 2738752, city name: Guimaraes
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=guimaraes,pt
+City number: 2075265, city name: Busselton
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=busselton,au
+City number: 964432, city name: Port Alfred
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=port alfred,za
+No weather data found for taolanaro
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=taolanaro,mg
+City number: 4031574, city name: Provideniya
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=provideniya,ru
+City number: 2015179, city name: Tommot
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=tommot,ru
+City number: 2134814, city name: Sola
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=sola,vu
+City number: 2110227, city name: Butaritari
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=butaritari,ki
+No weather data found for illoqqortoormiut
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=illoqqortoormiut,gl
+City number: 2027296, city name: Aykhal
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=aykhal,ru
+City number: 4030556, city name: Rikitea
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=rikitea,pf
+City number: 2077963, city name: Albany
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=albany,au
+City number: 3874787, city name: Punta Arenas
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=punta arenas,cl
+No weather data found for illoqqortoormiut
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=illoqqortoormiut,gl
+City number: 3652764, city name: Puerto Ayora
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=puerto ayora,ec
+No weather data found for belushya guba
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=belushya guba,ru
+City number: 1865449, city name: Aki
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=aki,jp
+City number: 1798480, city name: Pumiao
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=pumiao,cn
+City number: 1106643, city name: Quatre Cocos
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=quatre cocos,mu
+City number: 1259395, city name: Porbandar
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=porbandar,in
+City number: 3369157, city name: Cape Town
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=cape town,za
+City number: 3104219, city name: Zumarraga
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=zumarraga,es
+City number: 1808749, city name: Hecun
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hecun,cn
+No weather data found for duz
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=duz,tn
+City number: 4035715, city name: Avarua
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=avarua,ck
+City number: 6355222, city name: Yulara
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=yulara,au
+No weather data found for mataura
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mataura,pf
+City number: 1726449, city name: Basco
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=basco,ph
+No weather data found for illoqqortoormiut
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=illoqqortoormiut,gl
+No weather data found for marcona
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=marcona,pe
+City number: 1731298, city name: Aloleng
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=aloleng,ph
+City number: 3388847, city name: Sao Felix do Xingu
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=sao felix do xingu,br
+City number: 3874787, city name: Punta Arenas
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=punta arenas,cl
+City number: 4020109, city name: Atuona
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=atuona,pf
+City number: 3652764, city name: Puerto Ayora
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=puerto ayora,ec
+No weather data found for umzimvubu
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=umzimvubu,za
+City number: 3874787, city name: Punta Arenas
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=punta arenas,cl
+City number: 575410, city name: Boksitogorsk
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=boksitogorsk,ru
+No weather data found for yate
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=yate,nc
+City number: 6541176, city name: Agropoli
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=agropoli,it
+City number: 2185329, city name: Waipawa
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=waipawa,nz
+City number: 556268, city name: Ostrovnoy
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ostrovnoy,ru
+City number: 1252795, city name: Yanam
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=yanam,in
+City number: 3424607, city name: Tasiilaq
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=tasiilaq,gl
+City number: 2185537, city name: Kawhia
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kawhia,nz
+No weather data found for grand river south east
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=grand river south east,mu
+City number: 4031574, city name: Provideniya
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=provideniya,ru
+City number: 5880568, city name: Bethel
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=bethel,us
+City number: 3466165, city name: Cidreira
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=cidreira,br
+City number: 933995, city name: Souillac
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=souillac,mu
+No weather data found for illoqqortoormiut
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=illoqqortoormiut,gl
+City number: 286621, city name: Salalah
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=salalah,om
+City number: 3418910, city name: Upernavik
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=upernavik,gl
+City number: 2067119, city name: Mandurah
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mandurah,au
+City number: 3369157, city name: Cape Town
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=cape town,za
+City number: 2122090, city name: Pevek
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=pevek,ru
+City number: 4031637, city name: Lavrentiya
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=lavrentiya,ru
+City number: 3370903, city name: Jamestown
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=jamestown,sh
+City number: 3370903, city name: Jamestown
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=jamestown,sh
+City number: 2077963, city name: Albany
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=albany,au
+City number: 3838859, city name: Rio Gallegos
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=rio gallegos,ar
+City number: 3652764, city name: Puerto Ayora
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=puerto ayora,ec
+City number: 695826, city name: Rakiv Lis
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=rakiv lis,ua
+City number: 3374083, city name: Bathsheba
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=bathsheba,bb
+No weather data found for taolanaro
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=taolanaro,mg
+City number: 2075265, city name: Busselton
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=busselton,au
+City number: 3471451, city name: Arraial do Cabo
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=arraial do cabo,br
+City number: 3370903, city name: Jamestown
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=jamestown,sh
+No weather data found for barentsburg
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=barentsburg,sj
+City number: 3652764, city name: Puerto Ayora
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=puerto ayora,ec
+City number: 934322, city name: Mahebourg
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mahebourg,mu
+City number: 2026786, city name: Berezovyy
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=berezovyy,ru
+City number: 2411397, city name: Georgetown
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=georgetown,sh
+City number: 211734, city name: Lisala
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=lisala,cd
+City number: 3863379, city name: Mar del Plata
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mar del plata,ar
+City number: 3401225, city name: Amapa
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=amapa,br
+City number: 4764534, city name: Hollins
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hollins,us
+No weather data found for mahon
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mahon,es
+City number: 5848280, city name: Kapaa
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kapaa,us
+City number: 1802068, city name: Lujiang
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=lujiang,cn
+City number: 2077963, city name: Albany
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=albany,au
+City number: 3366880, city name: Hermanus
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hermanus,za
+City number: 2377457, city name: Nouadhibou
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=nouadhibou,mr
+City number: 1242110, city name: Kalmunai
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kalmunai,lk
+City number: 3976324, city name: Concordia
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=concordia,mx
+City number: 509483, city name: Pinega
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=pinega,ru
+City number: 3985710, city name: Cabo San Lucas
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=cabo san lucas,mx
+City number: 3418910, city name: Upernavik
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=upernavik,gl
+City number: 2176639, city name: Batemans Bay
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=batemans bay,au
+City number: 2015306, city name: Tiksi
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=tiksi,ru
+No weather data found for mataura
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mataura,pf
+City number: 4020109, city name: Atuona
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=atuona,pf
+No weather data found for nizhneyansk
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=nizhneyansk,ru
+City number: 2516860, city name: Guia de Isora
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=guia de isora,es
+No weather data found for mataura
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mataura,pf
+City number: 2126785, city name: Belaya Gora
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=belaya gora,ru
+City number: 3831208, city name: Qaanaaq
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=qaanaaq,gl
+No weather data found for acarau
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=acarau,br
+City number: 1267390, city name: Kavaratti
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kavaratti,in
+City number: 3470279, city name: Bauru
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=bauru,br
+City number: 3416888, city name: Grindavik
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=grindavik,is
+City number: 3366880, city name: Hermanus
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hermanus,za
+City number: 3652764, city name: Puerto Ayora
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=puerto ayora,ec
+City number: 1626936, city name: Singaparna
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=singaparna,id
+City number: 3874787, city name: Punta Arenas
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=punta arenas,cl
+City number: 3370903, city name: Jamestown
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=jamestown,sh
+City number: 3831208, city name: Qaanaaq
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=qaanaaq,gl
+City number: 2126682, city name: Bilibino
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=bilibino,ru
+City number: 4031637, city name: Lavrentiya
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=lavrentiya,ru
+City number: 5983720, city name: Iqaluit
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=iqaluit,ca
+City number: 2074865, city name: Carnarvon
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=carnarvon,au
+No weather data found for grand river south east
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=grand river south east,mu
+City number: 978895, city name: Margate
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=margate,za
+City number: 5924351, city name: Clyde River
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=clyde river,ca
+City number: 364933, city name: Umm Kaddadah
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=umm kaddadah,sd
+City number: 3366880, city name: Hermanus
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hermanus,za
+City number: 1489499, city name: Togur
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=togur,ru
+City number: 1520316, city name: Oskemen
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=oskemen,kz
+City number: 3115824, city name: Muros
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=muros,es
+City number: 3652764, city name: Puerto Ayora
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=puerto ayora,ec
+City number: 4407665, city name: Kodiak
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kodiak,us
+City number: 964420, city name: Port Elizabeth
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=port elizabeth,za
+City number: 3366880, city name: Hermanus
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hermanus,za
+City number: 6355222, city name: Yulara
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=yulara,au
+City number: 6144312, city name: Sept-Iles
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=sept-iles,ca
+City number: 4032243, city name: Vaini
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=vaini,to
+City number: 1498402, city name: Mortka
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mortka,ru
+City number: 3838859, city name: Rio Gallegos
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=rio gallegos,ar
+City number: 3372707, city name: Ribeira Grande
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ribeira grande,pt
+City number: 3403395, city name: Candido Mendes
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=candido mendes,br
+City number: 2278158, city name: Buchanan
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=buchanan,lr
+City number: 4030556, city name: Rikitea
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=rikitea,pf
+City number: 1282256, city name: Hithadhoo
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hithadhoo,mv
+City number: 4740364, city name: Weatherford
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=weatherford,us
+City number: 2151187, city name: Roma
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=roma,au
+City number: 3863379, city name: Mar del Plata
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mar del plata,ar
+No weather data found for samusu
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=samusu,ws
+City number: 2112802, city name: Hasaki
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hasaki,jp
+City number: 3874787, city name: Punta Arenas
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=punta arenas,cl
+City number: 1490256, city name: Talnakh
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=talnakh,ru
+No weather data found for mataura
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mataura,pf
+City number: 3675504, city name: Manaure
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=manaure,co
+City number: 3404558, city name: Cabedelo
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=cabedelo,br
+City number: 3356213, city name: Khorixas
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=khorixas,na
+City number: 5855927, city name: Hilo
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hilo,us
+City number: 4030556, city name: Rikitea
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=rikitea,pf
+City number: 2075265, city name: Busselton
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=busselton,au
+City number: 2508813, city name: Adrar
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=adrar,dz
+City number: 2127060, city name: Arman
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=arman,ru
+City number: 1640972, city name: Katobu
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=katobu,id
+City number: 2155415, city name: New Norfolk
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=new norfolk,au
+City number: 2084442, city name: Vanimo
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=vanimo,pg
+No weather data found for amderma
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=amderma,ru
+City number: 415189, city name: Aden
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=aden,ye
+City number: 4030556, city name: Rikitea
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=rikitea,pf
+City number: 3471451, city name: Arraial do Cabo
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=arraial do cabo,br
+No weather data found for temaraia
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=temaraia,ki
+City number: 2075265, city name: Busselton
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=busselton,au
+City number: 4030556, city name: Rikitea
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=rikitea,pf
+City number: 6170031, city name: Tuktoyaktuk
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=tuktoyaktuk,ca
+City number: 2075265, city name: Busselton
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=busselton,au
+City number: 1282256, city name: Hithadhoo
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hithadhoo,mv
+City number: 3896218, city name: Castro
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=castro,cl
+City number: 3369157, city name: Cape Town
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=cape town,za
+City number: 3860443, city name: Comodoro Rivadavia
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=comodoro rivadavia,ar
+City number: 933995, city name: Souillac
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=souillac,mu
+No weather data found for mataura
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mataura,pf
+City number: 935215, city name: Saint-Philippe
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=saint-philippe,re
+City number: 2012530, city name: Zhigansk
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=zhigansk,ru
+City number: 1282256, city name: Hithadhoo
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hithadhoo,mv
+City number: 964432, city name: Port Alfred
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=port alfred,za
+City number: 3833367, city name: Ushuaia
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ushuaia,ar
+City number: 2075265, city name: Busselton
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=busselton,au
+City number: 2208248, city name: Kaitangata
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kaitangata,nz
+City number: 3833367, city name: Ushuaia
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ushuaia,ar
+City number: 3874787, city name: Punta Arenas
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=punta arenas,cl
+City number: 2206939, city name: Bluff
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=bluff,nz
+City number: 3896218, city name: Castro
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=castro,cl
+City number: 5848280, city name: Kapaa
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kapaa,us
+City number: 3366880, city name: Hermanus
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hermanus,za
+City number: 2297810, city name: Mumford
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mumford,gh
+City number: 3833367, city name: Ushuaia
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ushuaia,ar
+City number: 1072879, city name: Ankazoabo
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ankazoabo,mg
+No weather data found for illoqqortoormiut
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=illoqqortoormiut,gl
+City number: 2074113, city name: Collie
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=collie,au
+City number: 3652567, city name: San Cristobal
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=san cristobal,ec
+City number: 2075265, city name: Busselton
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=busselton,au
+City number: 4032243, city name: Vaini
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=vaini,to
+City number: 2027042, city name: Batagay-Alyta
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=batagay-alyta,ru
+No weather data found for kemijarvi
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kemijarvi,fi
+City number: 2120048, city name: Ust-Nera
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ust-nera,ru
+City number: 1015776, city name: Bredasdorp
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=bredasdorp,za
+No weather data found for umzimvubu
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=umzimvubu,za
+City number: 4030556, city name: Rikitea
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=rikitea,pf
+City number: 1524243, city name: Georgiyevka
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=georgiyevka,kz
+City number: 1791779, city name: Wanning
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=wanning,cn
+City number: 3860443, city name: Comodoro Rivadavia
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=comodoro rivadavia,ar
+City number: 3883457, city name: Lebu
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=lebu,cl
+City number: 4252975, city name: Barrow
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=barrow,us
+City number: 3412888, city name: Stykkisholmur
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=stykkisholmur,is
+City number: 2206939, city name: Bluff
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=bluff,nz
+City number: 3690654, city name: Yurimaguas
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=yurimaguas,pe
+City number: 2646088, city name: Inverness
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=inverness,gb
+City number: 5848280, city name: Kapaa
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kapaa,us
+City number: 5848280, city name: Kapaa
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kapaa,us
+No weather data found for barentsburg
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=barentsburg,sj
+City number: 3424607, city name: Tasiilaq
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=tasiilaq,gl
+City number: 4020109, city name: Atuona
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=atuona,pf
+City number: 3418910, city name: Upernavik
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=upernavik,gl
+City number: 5848280, city name: Kapaa
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kapaa,us
+City number: 5855927, city name: Hilo
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hilo,us
+City number: 3393692, city name: Itarema
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=itarema,br
+No weather data found for samusu
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=samusu,ws
+City number: 4032243, city name: Vaini
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=vaini,to
+City number: 5848280, city name: Kapaa
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kapaa,us
+City number: 2155415, city name: New Norfolk
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=new norfolk,au
+City number: 286621, city name: Salalah
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=salalah,om
+No weather data found for bengkulu
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=bengkulu,id
+City number: 3985710, city name: Cabo San Lucas
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=cabo san lucas,mx
+City number: 2110227, city name: Butaritari
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=butaritari,ki
+City number: 2155415, city name: New Norfolk
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=new norfolk,au
+City number: 777019, city name: Vardo
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=vardo,no
+City number: 5983607, city name: Inuvik
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=inuvik,ca
+City number: 4407665, city name: Kodiak
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kodiak,us
+City number: 4020109, city name: Atuona
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=atuona,pf
+City number: 2075265, city name: Busselton
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=busselton,au
+City number: 2028164, city name: Deputatskiy
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=deputatskiy,ru
+City number: 6185377, city name: Yellowknife
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=yellowknife,ca
+No weather data found for marcona
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=marcona,pe
+No weather data found for umzimvubu
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=umzimvubu,za
+City number: 4032243, city name: Vaini
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=vaini,to
+City number: 5848280, city name: Kapaa
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kapaa,us
+City number: 2629833, city name: Husavik
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=husavik,is
+City number: 4760059, city name: Fredericksburg
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=fredericksburg,us
+City number: 371745, city name: Kutum
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=kutum,sd
+City number: 3874787, city name: Punta Arenas
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=punta arenas,cl
+City number: 3833367, city name: Ushuaia
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ushuaia,ar
+City number: 2122090, city name: Pevek
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=pevek,ru
+City number: 4020109, city name: Atuona
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=atuona,pf
+City number: 3366880, city name: Hermanus
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hermanus,za
+City number: 3863379, city name: Mar del Plata
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mar del plata,ar
+City number: 3380290, city name: Sinnamary
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=sinnamary,gf
+City number: 2077963, city name: Albany
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=albany,au
+City number: 3863379, city name: Mar del Plata
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mar del plata,ar
+City number: 3874787, city name: Punta Arenas
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=punta arenas,cl
+City number: 3461892, city name: Guaraniacu
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=guaraniacu,br
+City number: 2411397, city name: Georgetown
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=georgetown,sh
+City number: 101628, city name: Tabuk
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=tabuk,sa
+City number: 1488206, city name: Ust-Ishim
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ust-ishim,ru
+City number: 2077963, city name: Albany
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=albany,au
+City number: 4032243, city name: Vaini
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=vaini,to
+City number: 2110227, city name: Butaritari
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=butaritari,ki
+No weather data found for mataura
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mataura,pf
+City number: 2126199, city name: Cherskiy
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=cherskiy,ru
+City number: 2156643, city name: Mount Gambier
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mount gambier,au
+City number: 3652764, city name: Puerto Ayora
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=puerto ayora,ec
+City number: 964432, city name: Port Alfred
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=port alfred,za
+No weather data found for amderma
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=amderma,ru
+City number: 3833367, city name: Ushuaia
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ushuaia,ar
+City number: 964432, city name: Port Alfred
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=port alfred,za
+City number: 3833367, city name: Ushuaia
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ushuaia,ar
+City number: 2074865, city name: Carnarvon
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=carnarvon,au
+City number: 3839307, city name: Rawson
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=rawson,ar
+City number: 3361934, city name: Saldanha
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=saldanha,za
+City number: 1218420, city name: Seydi
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=seydi,tm
+City number: 484644, city name: Tambovka
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=tambovka,ru
+City number: 2185329, city name: Otane
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=otane,nz
+City number: 3372707, city name: Ribeira Grande
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ribeira grande,pt
+City number: 2508813, city name: Adrar
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=adrar,dz
+City number: 6185377, city name: Yellowknife
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=yellowknife,ca
+City number: 3402648, city name: Carutapera
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=carutapera,br
+City number: 2155415, city name: New Norfolk
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=new norfolk,au
+No weather data found for tsihombe
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=tsihombe,mg
+City number: 2206939, city name: Bluff
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=bluff,nz
+City number: 4030556, city name: Rikitea
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=rikitea,pf
+City number: 4252975, city name: Barrow
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=barrow,us
+City number: 3443061, city name: Chuy
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=chuy,uy
+No weather data found for amderma
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=amderma,ru
+City number: 3870282, city name: Talcahuano
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=talcahuano,cl
+City number: 2063036, city name: Port Lincoln
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=port lincoln,au
+City number: 3369157, city name: Cape Town
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=cape town,za
+No weather data found for taolanaro
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=taolanaro,mg
+City number: 132892, city name: Gorgan
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=gorgan,ir
+City number: 2139521, city name: Noumea
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=noumea,nc
+No weather data found for taolanaro
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=taolanaro,mg
+City number: 4267531, city name: Altamont
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=altamont,us
+City number: 3536259, city name: Sibanicu
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=sibanicu,cu
+City number: 1185095, city name: Teknaf
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=teknaf,bd
+City number: 3418910, city name: Upernavik
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=upernavik,gl
+City number: 2439155, city name: Tanout
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=tanout,ne
+City number: 4034496, city name: Fare
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=fare,pf
+City number: 1809498, city name: Guilin
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=guilin,cn
+City number: 4031742, city name: Egvekinot
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=egvekinot,ru
+City number: 2075265, city name: Busselton
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=busselton,au
+City number: 3833367, city name: Ushuaia
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ushuaia,ar
+City number: 3833367, city name: Ushuaia
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=ushuaia,ar
+City number: 1803300, city name: Liuzhou
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=liuzhou,cn
+No weather data found for mys shmidta
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mys shmidta,ru
+City number: 2163355, city name: Hobart
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hobart,au
+City number: 5855927, city name: Hilo
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=hilo,us
+No weather data found for mataura
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mataura,pf
+City number: 3985168, city name: San Patricio
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=san patricio,mx
+City number: 3874787, city name: Punta Arenas
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=punta arenas,cl
+City number: 3448903, city name: Sao Joao da Barra
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=sao joao da barra,br
+City number: 3874787, city name: Punta Arenas
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=punta arenas,cl
+City number: 2191562, city name: Dunedin
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=dunedin,nz
+City number: 3465769, city name: Conceicao da Barra
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=conceicao da barra,br
+No weather data found for mataura
+Requested url: http://api.openweathermap.org/data/2.5/weather?appid=********************************&units=imperial&q=mataura,pf
